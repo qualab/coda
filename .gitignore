@@ -30,3 +30,8 @@
 
 # Debug files
 *.dSYM/
+Debug
+/build/msvs2013/*.opensdf
+*.suo
+*.user
+*.sdf
